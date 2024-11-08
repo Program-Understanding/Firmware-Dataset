@@ -1,4 +1,4 @@
-# Dataset of Embedded System with Multiple Firmware Version
+# Dataset of Embedded Systems with Multiple Firmware Version
 
 This is a dataset of products with at least 10 provided firmware versions. This dataset was created by filtering through an original dataset (https://github.com/WUSTL-CSPL/Firmware-Dataset) and identifying products with at least 10 versions of firmware.
 
