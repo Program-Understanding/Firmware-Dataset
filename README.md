@@ -17,7 +17,6 @@ This is a dataset of products with at least 10 provided firmware versions. This 
 Clone the Repository:
 
     git clone https://github.com/nharrisonau/firmware-downloader.git
-    cd firmware-downloader
 
 Install Python Dependencies: Install the required Python packages using pip.
 
