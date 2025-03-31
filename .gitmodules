@@ -1,3 +1,6 @@
 [submodule "datasets/dataset_III/openwrt-v23.05.0"]
 	path = datasets/dataset_III/openwrt-v23.05.0
 	url = https://github.com/openwrt/openwrt.git
+[submodule "datasets/dataset_III/openwrt-v23.05.2"]
+	path = datasets/dataset_III/openwrt-v23.05.2
+	url = https://github.com/openwrt/openwrt.git
